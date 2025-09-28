@@ -1,0 +1,83 @@
+{
+  "app": {
+    "title": "PROJAPOTI",
+    "subtitle": "AI-POWERED CYBERNETIC SEARCH ENGINE",
+    "status": "NEURAL NETWORK ACTIVE"
+  },
+  "search": {
+    "placeholder": "Enter the digital void...",
+    "modes": {
+      "web": "Web",
+      "images": "Images", 
+      "news": "News",
+      "videos": "Videos",
+      "dark-web": "Dark Web"
+    },
+    "filters": {
+      "title": "Filters",
+      "safeSearch": "Safe Search",
+      "dateRange": "Date Range",
+      "language": "Language",
+      "any": "Any Time",
+      "day": "Past 24 Hours",
+      "week": "Past Week",
+      "month": "Past Month",
+      "year": "Past Year"
+    },
+    "history": {
+      "title": "Search History",
+      "clear": "Clear History",
+      "empty": "No search history yet"
+    },
+    "suggestions": {
+      "title": "Suggestions"
+    }
+  },
+  "trending": {
+    "title": "TRENDING NOW",
+    "live": "LIVE",
+    "volume": "Volume",
+    "change": "Change"
+  },
+  "ai": {
+    "quickAnswer": {
+      "title": "AI Quick Answer",
+      "confidence": "Confidence",
+      "sources": "Sources"
+    },
+    "types": {
+      "summary": "Summary",
+      "translation": "Translation", 
+      "code": "Code",
+      "general": "General"
+    }
+  },
+  "profile": {
+    "title": "User Profile",
+    "preferences": "Preferences",
+    "activity": "Activity",
+    "insights": "Insights",
+    "searchModes": "Search Modes",
+    "categories": "Categories",
+    "languages": "Languages",
+    "safeSearch": "Safe Search",
+    "learningData": "Learning Data",
+    "clickPatterns": "Click Patterns",
+    "timeSpent": "Time Spent",
+    "preferredResults": "Preferred Results"
+  },
+  "results": {
+    "title": "Search Results",
+    "noResults": "No results found",
+    "loading": "Searching...",
+    "error": "Search failed"
+  },
+  "common": {
+    "search": "Search",
+    "close": "Close",
+    "clear": "Clear",
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "app": {
+    "title": "নেক্সাস",
+    "subtitle": "এআই-চালিত সাইবারনেটিক সার্চ ইঞ্জিন",
+    "status": "নিউরাল নেটওয়ার্ক সক্রিয়"
+  },
+  "search": {
+    "placeholder": "ডিজিটাল শূন্যতায় প্রবেশ করুন...",
+    "modes": {
+      "web": "ওয়েব",
+      "images": "ছবি", 
+      "news": "খবর",
+      "videos": "ভিডিও",
+      "dark-web": "ডার্ক ওয়েব"
+    },
+    "filters": {
+      "title": "ফিল্টার",
+      "short": "ফিল্টার",
+      "safeSearch": "নিরাপদ সার্চ",
+      "dateRange": "তারিখের সীমা",
+      "language": "ভাষা",
+      "any": "যেকোনো সময়",
+      "day": "গত ২৪ ঘন্টা",
+      "week": "গত সপ্তাহ",
+      "month": "গত মাস",
+      "year": "গত বছর"
+    },
+    "history": {
+      "title": "সার্চ ইতিহাস",
+      "short": "ইতিহাস",
+      "clear": "ইতিহাস মুছুন",
+      "empty": "এখনও কোনো সার্চ ইতিহাস নেই"
+    },
+    "suggestions": {
+      "title": "পরামর্শ"
+    }
+  },
+  "trending": {
+    "title": "এখন ট্রেন্ডিং",
+    "short": "ট্রেন্ডিং",
+    "live": "লাইভ",
+    "volume": "ভলিউম",
+    "change": "পরিবর্তন"
+  },
+  "ai": {
+    "quickAnswer": {
+      "title": "এআই দ্রুত উত্তর",
+      "confidence": "আত্মবিশ্বাস",
+      "sources": "উৎস"
+    },
+    "types": {
+      "summary": "সারসংক্ষেপ",
+      "translation": "অনুবাদ", 
+      "code": "কোড",
+      "general": "সাধারণ"
+    }
+  },
+  "profile": {
+    "title": "ব্যবহারকারী প্রোফাইল",
+    "short": "প্রোফাইল",
+    "preferences": "পছন্দ",
+    "activity": "কার্যকলাপ",
+    "insights": "অন্তর্দৃষ্টি",
+    "searchModes": "সার্চ মোড",
+    "categories": "বিভাগ",
+    "languages": "ভাষা",
+    "safeSearch": "নিরাপদ সার্চ",
+    "learningData": "শেখার ডেটা",
+    "clickPatterns": "ক্লিক প্যাটার্ন",
+    "timeSpent": "সময় ব্যয়",
+    "preferredResults": "পছন্দের ফলাফল"
+  },
+  "results": {
+    "title": "সার্চ ফলাফল",
+    "noResults": "কোনো ফলাফল পাওয়া যায়নি",
+    "loading": "সার্চ করা হচ্ছে...",
+    "error": "সার্চ ব্যর্থ হয়েছে"
+  },
+  "common": {
+    "search": "সার্চ",
+    "close": "বন্ধ",
+    "clear": "মুছুন",
+    "loading": "লোড হচ্ছে...",
+    "error": "ত্রুটি",
+    "retry": "পুনরায় চেষ্টা করুন"
+  },
+  "voice": {
+    "listening": "শোনা হচ্ছে...",
+    "start": "ভয়েস সার্চ শুরু করুন",
+    "stop": "ভয়েস সার্চ বন্ধ করুন",
+    "notSupported": "ভয়েস সার্চ সমর্থিত নয়",
+    "error": "ভয়েস রিকগনিশন ত্রুটি"
+  },
+  "visual": {
+    "title": "ভিজ্যুয়াল সার্চ",
+    "powered": "এআই-চালিত",
+    "dragDrop": "আপনার ছবি বা ভিডিও এখানে ড্র্যাগ করুন",
+    "clickBrowse": "অথবা ক্লিক করে ব্রাউজ করুন",
+    "supported": "সমর্থিত: JPG, PNG, GIF, WebP, MP4, WebM",
+    "processing": "আপনার ফাইল প্রসেস করা হচ্ছে...",
+    "remove": "সরান",
+    "error": "ভিজ্যুয়াল সার্চের জন্য ইন্টারনেট সংযোগ প্রয়োজন।"
+  },
+  "advanced": {
+    "title": "অ্যাডভান্সড সার্চ অপারেটর",
+    "developer": "ডেভেলপার টুলস",
+    "regex": "রেজেক্স সার্চ",
+    "boolean": "বুলিয়ান সার্চ",
+    "exact": "এক্জাক্ট ম্যাচ",
+    "examples": "উদাহরণ:",
+    "regexExample": "/react\\.(js|jsx)/",
+    "booleanExample": "react AND hooks NOT native",
+    "exactExample": "\"useEffect hook\""
+  },
+  "offline": {
+    "title": "অফলাইন মোড",
+    "onlineMode": "অনলাইন মোড",
+    "offline": "অফলাইন",
+    "offlineMode": "অফলাইন মোড",
+    "error": "আপনি অফলাইনে আছেন। কিছু ফিচার কাজ নাও করতে পারে।",
+    "cacheError": "ভিজ্যুয়াল সার্চের জন্য ইন্টারনেট সংযোগ প্রয়োজন।"
+  }
+}

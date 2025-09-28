@@ -1,0 +1,123 @@
+{
+  "app": {
+    "title": "NEXUS",
+    "subtitle": "AI-POWERED CYBERNETIC SEARCH ENGINE",
+    "status": "NEURAL NETWORK ACTIVE"
+  },
+  "search": {
+    "placeholder": "Enter the digital void...",
+    "modes": {
+      "web": "Web",
+      "images": "Images", 
+      "news": "News",
+      "videos": "Videos",
+      "dark-web": "Dark Web"
+    },
+    "filters": {
+      "title": "Filters",
+      "short": "Filters",
+      "safeSearch": "Safe Search",
+      "dateRange": "Date Range",
+      "language": "Language",
+      "any": "Any Time",
+      "day": "Past 24 Hours",
+      "week": "Past Week",
+      "month": "Past Month",
+      "year": "Past Year"
+    },
+    "history": {
+      "title": "Search History",
+      "short": "History",
+      "clear": "Clear History",
+      "empty": "No search history yet"
+    },
+    "suggestions": {
+      "title": "Suggestions"
+    }
+  },
+  "trending": {
+    "title": "TRENDING NOW",
+    "short": "Trending",
+    "live": "LIVE",
+    "volume": "Volume",
+    "change": "Change"
+  },
+  "ai": {
+    "quickAnswer": {
+      "title": "AI Quick Answer",
+      "confidence": "Confidence",
+      "sources": "Sources"
+    },
+    "types": {
+      "summary": "Summary",
+      "translation": "Translation", 
+      "code": "Code",
+      "general": "General"
+    }
+  },
+  "profile": {
+    "title": "User Profile",
+    "short": "Profile",
+    "preferences": "Preferences",
+    "activity": "Activity",
+    "insights": "Insights",
+    "searchModes": "Search Modes",
+    "categories": "Categories",
+    "languages": "Languages",
+    "safeSearch": "Safe Search",
+    "learningData": "Learning Data",
+    "clickPatterns": "Click Patterns",
+    "timeSpent": "Time Spent",
+    "preferredResults": "Preferred Results"
+  },
+  "results": {
+    "title": "Search Results",
+    "noResults": "No results found",
+    "loading": "Searching...",
+    "error": "Search failed"
+  },
+  "common": {
+    "search": "Search",
+    "close": "Close",
+    "clear": "Clear",
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry"
+  },
+  "voice": {
+    "listening": "Listening...",
+    "start": "Start Voice Search",
+    "stop": "Stop Voice Search",
+    "notSupported": "Voice search not supported",
+    "error": "Voice recognition error"
+  },
+  "visual": {
+    "title": "Visual Search",
+    "powered": "AI-Powered",
+    "dragDrop": "Drag & drop your image or video here",
+    "clickBrowse": "or click to browse",
+    "supported": "Supported: JPG, PNG, GIF, WebP, MP4, WebM",
+    "processing": "Processing your file...",
+    "remove": "Remove",
+    "error": "Visual search requires internet connection."
+  },
+  "advanced": {
+    "title": "Advanced Search Operators",
+    "developer": "Developer Tools",
+    "regex": "Regex Search",
+    "boolean": "Boolean Search",
+    "exact": "Exact Match",
+    "examples": "Examples:",
+    "regexExample": "/react\\.(js|jsx)/",
+    "booleanExample": "react AND hooks NOT native",
+    "exactExample": "\"useEffect hook\""
+  },
+  "offline": {
+    "title": "Offline Mode",
+    "onlineMode": "Online Mode",
+    "offline": "Offline",
+    "offlineMode": "Offline Mode",
+    "error": "You're offline. Some features may not work.",
+    "cacheError": "Visual search requires internet connection."
+  }
+}
