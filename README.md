@@ -18,18 +18,9 @@ This scaffold provides a robust foundation built with:
 - **🌈 Framer Motion** - Production-ready motion library for React
 - **🎨 Next Themes** - Perfect dark mode in 2 lines of code
 
-### 📋 Forms & Validation
-- **🎣 React Hook Form** - Performant forms with easy validation
-- **✅ Zod** - TypeScript-first schema validation
+## Screenshots:
+<img width="1366" height="768" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/68646b8e-8f32-413c-8192-4adf1918e318" />
 
-### 🔄 State Management & Data Fetching
-- **🐻 Zustand** - Simple, scalable state management
-- **🔄 TanStack Query** - Powerful data synchronization for React
-- **🌐 Axios** - Promise-based HTTP client
-
-### 🗄️ Database & Backend
-- **🗄️ Prisma** - Next-generation Node.js and TypeScript ORM
-- **🔐 NextAuth.js** - Complete open-source authentication solution
 
 ### 🎨 Advanced UI Features
 - **📊 TanStack Table** - Headless UI for building tables and datagrids
